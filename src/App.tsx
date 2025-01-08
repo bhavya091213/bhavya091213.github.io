@@ -26,7 +26,7 @@ function App() {
           <Name name="BHAVYA PATEL" x={0} y={4.5} z={-2} size={1} />
           <Name name="PORTFOLIO" x={0} y={3.3} z={-1.5} size={1.5} />
           <MainButtons />
-          {/* <Stats showPanel={3} className="stats" /> */}
+          <Stats showPanel={3} className="stats" />
         </Canvas>
       </Suspense>
     </>
